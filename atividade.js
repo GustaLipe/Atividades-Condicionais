@@ -1,4 +1,4 @@
-var idade = 18
-var peso = 70
+var idade = 14
+var peso = 59
 
 console.log("Sua idade é "+idade+" e seu peso é "+peso+".")
